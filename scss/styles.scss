@@ -1,0 +1,17 @@
+// navbar
+
+
+
+
+
+footer{
+
+  background-color: black;
+  padding-top: 100px !important;
+  padding-bottom: 100px !important;
+  
+  &_a{
+    text-decoration: none;
+    color: $lime;
+  }
+}
